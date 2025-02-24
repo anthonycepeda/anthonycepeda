@@ -15,6 +15,5 @@ Lately, I help to develop and maintain a private cloud platform ✨
 You can find me on: ❤️
 
 * [LinkedIn](https://www.linkedin.com/in/anthonycepeda)
-* [Twitter as @anthonycepedaa](https://twitter.com/anthonycepedaa)
 * [GitHub as @anthonycepeda (you are here)](https://github.com/anthonycepeda)
 
