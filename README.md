@@ -1,4 +1,4 @@
-### Hey! I'm [@anthonycepedaa](https://twitter.com/anthonycepedaa) (Anthony Cepeda) 👋
+### Hey! I'm Anthony Cepeda 👋
 
 I'm a software developer from the Dominican Republic. 🇩🇴
 
